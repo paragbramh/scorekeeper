@@ -1,0 +1,18 @@
+.winner{
+	color:green;
+}
+
+
+body{
+	background: url(https://i.ytimg.com/vi/RPjque8kpiM/maxresdefault.jpg);
+	background-size:cover;
+
+}
+button{
+	background:rgba(252, 244, 30,0.5);
+	border:5px outset blue;
+}
+input{
+	background:rgba(201, 60, 232,0.2);
+	border:5px outset black;
+}
